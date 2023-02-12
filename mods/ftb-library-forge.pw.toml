@@ -1,0 +1,13 @@
+name = "FTB Library (Forge)"
+filename = "ftb-library-forge-1802.3.10-build.171.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "520d4504603a82ee6c3af11d388280dd07671af6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4389069
+project-id = 404465
