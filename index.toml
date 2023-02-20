@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "6b052ea1e344ae6d32b7c478423d032b1f4f5ab33056703531badc70082dbfbd"
+hash = "d3b24a39c349c618a17d5f21c88d4bc1e80884938bea620ed1c5fd6ccda65700"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "0674a135afdafad3893f2a1e5c7a00cc56655cc169626cd44caa588bed4e7d82"
+hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "4722e0b376f08c7b6c20a8aa8a3f479e483d929dce4ad122724091ede5a13114"
+hash = "b9f7338b60d55a0df5c0d5f59d1c72d7e723626a8b990657273f74f81506f4ac"
 metafile = true
 
 [[files]]
