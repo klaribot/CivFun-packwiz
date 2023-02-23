@@ -1,0 +1,6 @@
+version:2975
+autoJump:false
+guiScale:3
+darkMojangStudiosBackground:true
+tutorialStep:none
+realmsNotifications:false
