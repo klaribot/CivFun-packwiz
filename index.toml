@@ -17,6 +17,14 @@ file = "config/forge-common.toml"
 hash = "55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c"
 
 [[files]]
+file = "config/inversia-common.toml"
+hash = "c27439df72983b1ab90eff5c3cf5ad8be1138de886d08b3bc77ff118c54b2141"
+
+[[files]]
+file = "config/molten_geodes-common.toml"
+hash = "42faa3a2364f3afd873b0dab5af9dea01d970979e09c19a885b7a21e7ff9903d"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
@@ -338,11 +346,36 @@ hash = "cf9b59779fabb82dc9dd5b9d497468a359deb9ec6f76c9ae666002e9a74c2998"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+hash = "92bae66be9f453a2664ce5d98dbc5a57cc0ca768d01070d8a784a0955b84a3bc"
+
+[[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "78454c76cd634a5cc1ad02a89b0869309398ceeed895aa88c3e03241fb4afe1d"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a50a33ef816833d7540461b89161751bccf1fdbdc9ab0bbf9d07942621a26267"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ce2aa209b10a5ca89af90a5cb67292117dee46165dab91538d543782c49dace3"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "9a56d3c04cb0669a68cfb29278d32144719d3016edb77f178286bc53d597b32e"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "6308fbff3b59d844ded2b08d209f0c31288c479239ad1c1f670be6469bba586f"
 metafile = true
 
 [[files]]
@@ -376,6 +409,11 @@ hash = "863f10a9025bd638b9bcb80d84ff309d47c0938d14dc1d45796105da4c778359"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-geodes.pw.toml"
+hash = "bbcefebade3a02e2862271e95d95c13cc6ac2795c5f896c375b5dad12db2f766"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a8f42812d9bd6893e8299b7a54debb0f46803366402d31593ab5c91e604373da"
 metafile = true
@@ -387,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "4afe5c7ef3552063b131e06f6728d798b3ca19fc20ee0d2f567922a4621748d5"
+hash = "fed072e28a696596c0f53e3c3f4fb5cb7def95d299f99aee7316311261dac0ff"
 metafile = true
 
 [[files]]
@@ -427,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "b608b64574b6fab07b1ccc2bc879a6a3ce877e6b4c683b8d6e0f11800ff7d20d"
+hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
 metafile = true
 
 [[files]]
@@ -438,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "6f679ecef8f40832d535fc8d277ea3a4d686a5751c3372370d55d29d3fc44f8a"
+metafile = true
+
+[[files]]
+file = "mods/inversia.pw.toml"
+hash = "8cda26250ea423dfc18a3e543b37fcc4a0b20ec96eb98f2255d4391db8d099c5"
 metafile = true
 
 [[files]]
@@ -461,18 +504,48 @@ hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "4cb9d3b61c8ca7f5acd6f1d25e1ce55c353c9eec707f8931b24ec5ca1ab1745a"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "4460c05de465c067af9b8ae8373eca9ed22805ee3316a089899441e1471454eb"
+metafile = true
+
+[[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "ad8897923df56f5e20ed03aae3f8a74e3cb0b2e0ff72710bd9639d30072e0b36"
+hash = "a31b73cb04e4b6d8a60236a14bbc0e5159c122005cfdc5470daad564c1671daa"
 metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "0471838ee06b45e0bb517abefa01189e1b450d43e86caa0baf671c6124b5702e"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "b1f1cd08541e4bc1dee1fc3858acce03cfb2184e2abc709f570fdbab6e1a605b"
 metafile = true
 
 [[files]]
@@ -488,6 +561,41 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "79f0f9e40bb05c2234d4603a4a7a1db3f6f8337e2210c5a804d25da29ecad7f2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "a740b8e6a629da33df773af554a0439390b016fb42d31a71609be2954cd28668"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "1d652b97d6bf0ff4bacac7fe240ce53bde7b727e3ac00ca5c3ed5260b4a05df1"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "c456c53fcd79b8cbad7c3907b48e3e1041f5af50a07cfab8238134a10dbc1cdf"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.pw.toml"
+hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
 metafile = true
 
 [[files]]
