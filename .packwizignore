@@ -6,3 +6,6 @@
 
 # Exclude packwiz binary
 /packwiz
+
+# Exclude exported zip files
+*.zip
