@@ -5,6 +5,4 @@
 *.mrpack
 
 # Exclude packwiz binary
-packwiz
-
-/kubejs/exported/*
+/packwiz
