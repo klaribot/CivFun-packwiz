@@ -1,8 +1,8 @@
-# Exclude exported CurseForge zip files
-/packwiz/*.zip
+# Exclude exported CurseForge/MultiMC zip files
+/export/*.zip
 
 # Exclude exported Modrinth modpacks
-/packwiz/*.mrpack
+/export/*.mrpack
 
 # Exclude packwiz binary
 packwiz-run

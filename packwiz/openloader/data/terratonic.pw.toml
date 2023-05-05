@@ -1,0 +1,7 @@
+name = "terratonic"
+filename = "terratonic-1-18-2.zip"
+
+[download]
+url = "https://github.com/ApolloDatapacks/pack-library/raw/main/terratonic/terratonic-1-18-2.zip"
+hash-format = "sha1"
+hash = "ed2d83778f7d32cec89b51438941561dfda87b55"

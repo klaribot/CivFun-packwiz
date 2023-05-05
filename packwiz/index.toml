@@ -590,5 +590,10 @@ hash = "9112a7917815d6c1f9a1617b90963f813ca03a0f3322e35ca7ce0066935f63ef"
 metafile = true
 
 [[files]]
+file = "openloader/data/terratonic.pw.toml"
+hash = "02b03085ab64903c4b46d1a9f9bdf468fbdabfd76e7425d12e9833bf1f848e4b"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "af6463f303e94f001c8c4392dedac593bedb73cc2e7595c98116a0c74e4cd8db"
