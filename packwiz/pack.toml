@@ -1,0 +1,13 @@
+name = "CivFun-Client"
+author = "Klari"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5302cf4c3033fca13a22ba01393acc66c2e9b05f865332084d7b852dabc4e7a"
+
+[versions]
+forge = "40.2.2"
+minecraft = "1.18.2"
