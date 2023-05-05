@@ -9,10 +9,6 @@ file = "config/Advancedperipherals/metaphysics.toml"
 hash = "38098c09c5a9948effaf1c657614624b19522d6bf09c3f2e8230c16c5343b159"
 
 [[files]]
-file = "config/Advancedperipherals/peripherals-1.toml.bak"
-hash = "b2f274d6a6ed4f92bfb10cc78ad7439317bf97b51d893cb95e6224b2550123cf"
-
-[[files]]
 file = "config/Advancedperipherals/peripherals.toml"
 hash = "cf57207f889829de560b909c8e1c3b827c63fbe74f1ae1838b82a8cecb162509"
 
