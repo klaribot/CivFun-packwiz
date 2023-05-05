@@ -586,7 +586,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "af6463f303e94f001c8c4392dedac593bedb73cc2e7595c98116a0c74e4cd8db"
-
-[[files]]
-file = "packwiz-run"
-hash = "594c69a54ed87a56b3ec16013ed0a12b596e89bbe57e1f7f91d0eec9d919be68"
