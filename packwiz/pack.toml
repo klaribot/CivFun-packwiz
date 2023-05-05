@@ -1,13 +1,16 @@
 name = "CivFun-Client"
 author = "Klari"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a2ffc456d25c7be9758464e20ec0e5e5744a3b5049d803bdfb140655aadca29b"
+hash = "10368134eef4251b365be705789acb6a832bd9368233a3174b37d73967a6f713"
 
 [versions]
 forge = "40.2.2"
 minecraft = "1.18.2"
+
+[options]
+datapack-folder = "openloader/data"
