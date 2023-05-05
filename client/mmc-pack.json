@@ -15,11 +15,11 @@
         },
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.1",
+            "cachedVersion": "3.2.2",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.3.1"
+            "version": "3.2.2"
         },
         {
             "cachedName": "Forge",
