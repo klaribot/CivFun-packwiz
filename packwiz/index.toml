@@ -41,14 +41,12 @@ file = "config/molten_geodes-common.toml"
 hash = "42faa3a2364f3afd873b0dab5af9dea01d970979e09c19a885b7a21e7ff9903d"
 
 [[files]]
-file = "config/openloader/data/tectonic.pw.toml"
+file = "config/openloader/data/tectonic.pw.toml.disabled"
 hash = "186f66c208a86636f9fd27366ee46319b5720cf635f2ffd0830fe77599bc9272"
-metafile = true
 
 [[files]]
-file = "config/openloader/data/terratonic.pw.toml"
+file = "config/openloader/data/terratonic.pw.toml.disabled"
 hash = "02b03085ab64903c4b46d1a9f9bdf468fbdabfd76e7425d12e9833bf1f848e4b"
-metafile = true
 
 [[files]]
 file = "config/sidebar_buttons.json"
