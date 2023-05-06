@@ -41,6 +41,11 @@ file = "config/molten_geodes-common.toml"
 hash = "42faa3a2364f3afd873b0dab5af9dea01d970979e09c19a885b7a21e7ff9903d"
 
 [[files]]
+file = "config/openloader/data/terratonic.pw.toml"
+hash = "02b03085ab64903c4b46d1a9f9bdf468fbdabfd76e7425d12e9833bf1f848e4b"
+metafile = true
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
 
@@ -587,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9112a7917815d6c1f9a1617b90963f813ca03a0f3322e35ca7ce0066935f63ef"
-metafile = true
-
-[[files]]
-file = "openloader/data/terratonic.pw.toml"
-hash = "02b03085ab64903c4b46d1a9f9bdf468fbdabfd76e7425d12e9833bf1f848e4b"
 metafile = true
 
 [[files]]
