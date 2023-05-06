@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-datapack-mc1.18.2-v1.1.10a.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/xLL0P4rp/tectonic-datapack-mc1.18.2-v1.1.10a.zip"
+hash-format = "sha1"
+hash = "bfb64f9df7b946a4e9c149a1475db3cb6e61025b"
+
+[update]
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "xLL0P4rp"
