@@ -95,6 +95,16 @@ hash = "0186e7f4f8fd2796123df62c8e6ac869b189df6beb7a601f9a5c825f0464292e"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "bf48a4f0ed654146397ce5ed3f5b47b62dacdd6b4e81a5b1ef42c5c273958b2f"
 metafile = true
 
 [[files]]
@@ -463,6 +478,11 @@ hash = "2f745271922048aca171a9a974b020c5ab57c686a0281d7ba60d4214cb521c9a"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "cdafaa5cc3d15b4d4937db9699bf8d5dbcd194cb9a06b16ceecd30d8143d3016"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "4460c05de465c067af9b8ae8373eca9ed22805ee3316a089899441e1471454eb"
 metafile = true
@@ -585,6 +605,16 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-computers.pw.toml"
+hash = "f75a433059f1caf38c5548ea8949ecd24b717e7c14d2d2f47982aefdbdf50e84"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
 metafile = true
 
 [[files]]
