@@ -105,6 +105,11 @@ hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
@@ -235,6 +240,11 @@ hash = "73480c4ed3366df73f39f9efa709002fb7ef011db6be9abe09bf9260b76d8116"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "633caf2970e18e1e99bd8d791ffb75f37f3fd5163d0f0ee1aa0636fdb249b66f"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
@@ -358,6 +368,11 @@ hash = "b7b5403cc7b2eff0e2e3f4d437c384dad3b678d14241955c4ccbbcb764917d47"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
 metafile = true
@@ -460,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
+metafile = true
+
+[[files]]
+file = "mods/online-picture-frame.pw.toml"
+hash = "1ab1d29b352cbc6c6bf6a321d261892b5a16332bd0bb68a454dd98e718a03b25"
 metafile = true
 
 [[files]]
