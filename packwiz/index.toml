@@ -265,9 +265,8 @@ hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
+file = "mods/eureka-ships.pw.toml.disabled"
 hash = "bf48a4f0ed654146397ce5ed3f5b47b62dacdd6b4e81a5b1ef42c5c273958b2f"
-metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -625,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-clockwork.pw.toml"
+hash = "a11c85646bf59b85cb33aca725c4eeda0d3bc450d018435df8cf84ad703857bd"
 metafile = true
 
 [[files]]
