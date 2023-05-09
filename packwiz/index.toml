@@ -185,6 +185,11 @@ hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
+metafile = true
+
+[[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "d57c4d6b85d34fbfe76cc50e5aa4a2f2d8e821a6b4b55a982a5388efdf954c31"
 metafile = true
@@ -509,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "83d863d98ba4bf3dd8fee258d1514027e3f879e363c43f128d26cbe18b0d4344"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "7e2c108fb8b1a9b673bbc5b7bad239520791df0ece978e58c8f656ce25f5db0b"
 metafile = true
 
 [[files]]
