@@ -367,11 +367,6 @@ hash = "b7b5403cc7b2eff0e2e3f4d437c384dad3b678d14241955c4ccbbcb764917d47"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
 metafile = true
