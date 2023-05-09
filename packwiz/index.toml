@@ -622,19 +622,16 @@ hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-clockwork.pw.toml"
+file = "mods/valkyrien-clockwork.pw.toml.disabled"
 hash = "a11c85646bf59b85cb33aca725c4eeda0d3bc450d018435df8cf84ad703857bd"
-metafile = true
 
 [[files]]
-file = "mods/valkyrien-computers.pw.toml"
+file = "mods/valkyrien-computers.pw.toml.disabled"
 hash = "f75a433059f1caf38c5548ea8949ecd24b717e7c14d2d2f47982aefdbdf50e84"
-metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
+file = "mods/valkyrien-skies.pw.toml.disabled"
 hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
-metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
