@@ -358,7 +358,7 @@ hash = "8cda26250ea423dfc18a3e543b37fcc4a0b20ec96eb98f2255d4391db8d099c5"
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
+hash = "f5f7180f179961bcc4d341922dfcd24a1ccd657f137dd290ef67f10aa196ebd8"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "2eb08ed9ad96652c2da67e9faf59fc7332436e14587417d3de1ad0fb8376db37"
+hash = "4bd9e409af22a8c79c767378e69e614f81d9267045cd80964660f06bd402c13d"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "4d0ba601a8cb2fdb4162fed85a1f042dd969098a9148b00b729bfc698fab76c0"
+hash = "e169468b4b1a849b014644226ef8c2746e8cbdcaa457fb23e8801754a959f7dc"
 metafile = true
 
 [[files]]
