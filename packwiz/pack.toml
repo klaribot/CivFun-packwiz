@@ -1,12 +1,12 @@
 name = "CivFun-Client"
 author = "Klari"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b61bf7f1daecce1ac058c2811e26cb7e78deac09454c5ce89ecfad670f309550"
+hash = "f56e0e5978516368e219894d7586c7b8e7b4d4d61536db6e5d3abb100743ce3f"
 
 [versions]
 forge = "40.2.2"

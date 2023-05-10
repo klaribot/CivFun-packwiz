@@ -372,6 +372,11 @@ hash = "b7b5403cc7b2eff0e2e3f4d437c384dad3b678d14241955c4ccbbcb764917d47"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
 metafile = true
@@ -477,9 +482,8 @@ hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
 metafile = true
 
 [[files]]
-file = "mods/online-picture-frame.pw.toml"
+file = "mods/online-picture-frame.pw.toml.disabled"
 hash = "1ab1d29b352cbc6c6bf6a321d261892b5a16332bd0bb68a454dd98e718a03b25"
-metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
@@ -619,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "4e6c0604ce9ffd2c090612430005f0db9ee3e8c0d47830bfa912783ffb641ae6"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "ee1bc72c980997a48a8bc00aad6de353fa0b913c13266076bab03a0fdc025180"
 metafile = true
 
 [[files]]
