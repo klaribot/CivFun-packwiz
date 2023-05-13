@@ -2218,7 +2218,7 @@ hash = "02b03085ab64903c4b46d1a9f9bdf468fbdabfd76e7425d12e9833bf1f848e4b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e8144614eab523b23d64052027a621eef8ef04c7a8b6f2ddcf5d641529d76108"
+hash = "05f66c96f4122c5313c7f760fae7e992832dff252b800136ef10ca44bbe510cb"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -2528,6 +2528,11 @@ hash = "eb085aa1680bb07e24c4b92fa5c72d56585a77803256d7b80bae34226aac6216"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering-forge.pw.toml"
+hash = "05192dae5b395776ca1bd24bea8e894cc983dd82d0594f3cd58012a66d101b35"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "6f679ecef8f40832d535fc8d277ea3a4d686a5751c3372370d55d29d3fc44f8a"
 metafile = true
@@ -2726,6 +2731,11 @@ hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "dc02113e8e56bcf6980023e22623f086a4b70155c96bc1003e130ff083b2b997"
 metafile = true
@@ -2748,6 +2758,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9b562d1d3820b7d51b4553307965ec4fc37a8948beb2df5c65a924e2df602089"
 metafile = true
 
 [[files]]
