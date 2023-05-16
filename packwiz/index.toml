@@ -2178,7 +2178,7 @@ hash = "76b82656bf9ece661676b4e9ebb8e9349f36b43684ee51687b3cce290928f4bf"
 
 [[files]]
 file = "config/adpother/adpother.cfg"
-hash = "0955673bb199b053eab1b4e11c3998d1346aaf419dfbdfbb480b09c46e2045bf"
+hash = "303784d2f672f6ec5cd6c4af5f3c9ce5f7c8f1a9ae4e1aa95a72ef6ddfe22d72"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
