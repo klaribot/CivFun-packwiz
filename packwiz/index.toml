@@ -2440,13 +2440,28 @@ hash = "efbe0eb112dfec12d8b777bda921227fe6b21f1098e8246bac13a4bdd2f94478"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "8c97e77297f9405164f99ae7c6b3b69c8a64faab36fc717396566c9e36c1df83"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
+hash = "223a1dedd2d506e656945a9ff1b62ea56306b813a8df823a0d936b16a2812496"
 metafile = true
 
 [[files]]
@@ -2599,7 +2614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "c72a63dcce6b26dfb276eb3f03d1efe904cc974023aa4093d31d1f01b3415459"
+hash = "161167895fd55143f270dd9a67424363057a50483ce3c676fad5c5015f91796a"
 metafile = true
 
 [[files]]
@@ -2658,6 +2673,11 @@ hash = "e169468b4b1a849b014644226ef8c2746e8cbdcaa457fb23e8801754a959f7dc"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "4d90fc54c60eac4c117e60e98659519c4a1411e85e72b6da8932b6ca7dc94642"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -2684,7 +2704,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "910a9f01a491851c46a0b2fec122b68f536cfd384e9ba81ff804ff11e0890700"
+hash = "c86053c40ac5e87799b6929a6a888fa8e89324d368f403d45315578ed6797955"
 metafile = true
 
 [[files]]
@@ -2739,12 +2759,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6302f721c0a030d177d3c74793c75d48171113aab04a9cdadd23f1c1ac88bbd6"
+hash = "f0ce789f3fb532c9d41591d8b9619e336833da1d83822b1423ec3f1239f3d153"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "028ff346f85460605760c86a76559ea8255ad51b0fe9cf9e353c38e67ed53b2d"
+hash = "421a513785f8ca30c5dadcb7fbbb10dc03e4662d29a606a153da900c4e23e004"
 metafile = true
 
 [[files]]
@@ -2839,12 +2859,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9112a7917815d6c1f9a1617b90963f813ca03a0f3322e35ca7ce0066935f63ef"
+hash = "d1641347895fa02581189832d36b0fc8bd72d4f0b866e0fd544ae6d99d691805"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0e63ca24d0b48a6af88b034474791e381d6bc7d9ae7eafea197db50b29720ca2"
+hash = "d1ce029a6fbd565af4e1f20141bcb4e9904c400be662ce7b0900cb379a78eea7"
 metafile = true
 
 [[files]]
