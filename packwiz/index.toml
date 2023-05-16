@@ -2614,7 +2614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "161167895fd55143f270dd9a67424363057a50483ce3c676fad5c5015f91796a"
+hash = "c72a63dcce6b26dfb276eb3f03d1efe904cc974023aa4093d31d1f01b3415459"
 metafile = true
 
 [[files]]
